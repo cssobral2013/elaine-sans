@@ -1,1 +1,3 @@
-# elaine-sans
+# Elaine Sans
+
+Grotesk sans-serif forked from Work Sans.
